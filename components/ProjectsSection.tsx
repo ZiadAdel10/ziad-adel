@@ -15,11 +15,12 @@ const projects = [
     link: "https://main--quizzies-by-ziad.netlify.app/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "",
-    link: "https://platoio.com/register",
+    name: "Prompt Finder",
+    description:
+      "A community platform based on searching and posting prompts that can be used for interaction with ChatGPT",
+    image: "/prompt-finder.png",
+    github: "https://github.com/ZiadAdel10/promptfinder",
+    link: "https://promptfinder.vercel.app/",
   },
   {
     name: "Omnifood",
