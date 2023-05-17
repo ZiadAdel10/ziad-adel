@@ -10,6 +10,7 @@ const projects = [
     description:
       "A greate password generator to copy strong customized passwords",
     image: "/password-generator.png",
+    tech: "Nextjs, Tailwindcss, React Context",
     github: "https://github.com/ZiadAdel10/password-generator",
     link: "https://password-generator-eight-coral.vercel.app/",
   },
@@ -18,6 +19,7 @@ const projects = [
     description:
       "A community platform based on searching and posting prompts that can be used for interaction with ChatGPT",
     image: "/prompt-finder.png",
+    tech: "Nextjs, MongoDB, Mongoose, Tailwindcss, Next-Auth",
     github: "https://github.com/ZiadAdel10/promptfinder",
     link: "https://promptfinder.vercel.app/",
   },
