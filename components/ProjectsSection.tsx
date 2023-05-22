@@ -30,7 +30,7 @@ const projects = [
     image: "/quizzies.png",
     tech: "React, API, CSS",
     github: "https://github.com/ZiadAdel10/quizzies_game_project",
-    link: "https://main--quizzies-by-ziad.netlify.app/",
+    link: "https://quizzies-by-ziad.netlify.app/",
   },
   {
     name: "Snowbot Weather Forecaster",
